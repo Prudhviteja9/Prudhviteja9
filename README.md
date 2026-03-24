@@ -99,14 +99,3 @@ Real-time fraud detection with 5 ML models, live monitoring, and interactive das
 **AI/ML:** LangChain, OpenAI API, RAG, ChromaDB, Scikit-learn, XGBoost, LightGBM, MLflow, Pandas, NumPy
 
 **Cloud:** AWS Lambda, DynamoDB, S3, API Gateway, Cognito, App Runner, ECR, CDK
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prudhviteja9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prudhviteja9&theme=tokyonight&hide_border=true&background=0f1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prudhviteja9&theme=tokyo-night&hide_border=true&bg_color=0f1117" width="98%" />
-</p>
